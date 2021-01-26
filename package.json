@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "https://github.com/steinybot/break-youtube",
   "author": "Jason Pickens",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "google-trends-api": "^4.9.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
 }
