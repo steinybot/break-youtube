@@ -1,0 +1,9 @@
+{
+  "name": "break-youtube",
+  "version": "1.0.0",
+  "description": "Generates SEO comments to help break YouTube.",
+  "main": "index.js",
+  "repository": "https://github.com/steinybot/break-youtube",
+  "author": "Jason Pickens",
+  "license": "MIT"
+}
